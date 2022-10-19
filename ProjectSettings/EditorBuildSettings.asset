@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FPS Interior.unity
+    path: Assets/Scenes/Interior_Texture.unity
     guid: 90c6fff031454a44cb95979eb012706e
+  - enabled: 1
+    path: Assets/Scenes/LowpolyBuild.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
